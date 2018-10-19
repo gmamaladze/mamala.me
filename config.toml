@@ -1,0 +1,4 @@
+baseURL = "http://mamala.me/"
+languageCode = "en-us"
+title = "George Mamaladze"
+theme = "ananke"
